@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shraddha1513
 - 👀 I’m interested in coding and designing
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me shraddhadere0077@gmial.com
+- 📫 How to reach me shraddhadere0077@gmail.com
 
 <!---
 Shraddha1513/Shraddha1513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
